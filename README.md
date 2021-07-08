@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I love to explore the technologies of front-end and back-end web development through resources and creating my own projects.
+- 🤔 &nbsp; I love to explore the technologies of front-end and back-end web development through learning and creating my own projects.
 - 🎓 &nbsp; I studied Information Technology at Southwest Community College and graduated with an AS degree in 2015.
 - 💼 &nbsp; I am looking to pursue a career in full-stack Web Development when the opportunity arises.
 - ✍️ &nbsp; I enjoy learning and creating my own Graphic Design and Web Development projects as a hobby.
