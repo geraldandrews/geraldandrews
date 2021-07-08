@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; I love to learn and explore the technologies of front-end and back-end web development through tutorials and creating my own projects.
 - 🎓 &nbsp; Studied Information Technology at Southwest Community College and graduated with an AS degree in 2015.
-- 💼 &nbsp; I currently work as a retail merchandiser and I am looking to pursue a career in Web Development when the opportunity arises.
+- 💼 &nbsp; I currently work as a retail merchandiser and I am looking to pursue a career in full-stack Web Development when the opportunity arises.
 - ✍️ &nbsp; I enjoy creating my own Graphic Design and Web Development projects as a hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
