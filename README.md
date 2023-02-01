@@ -37,6 +37,6 @@
 
 <p align="center">
 <a href="https://geraldandrewsmedia.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.geraldandrewsmedia.com-blue?style=flat-square&logo=website"></a>
-<a href="mailto:gerald2399@comcast.net"><img alt="Email" src="https://img.shields.io/badge/Email-gerald2399@comcast.net-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:gerald2399@comcast.net"><img alt="Email" src="https://img.shields.io/badge/Email-gerald2399@comcast.net-blue?style=flat-square&logo=About.me"></a>
 </p>
 
