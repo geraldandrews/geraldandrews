@@ -36,7 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://andrewsmedia.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.andrewsmedia.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://andrewsmedia.netlify.app/"><img alt="Website" src="https://geraldandrewsmedia.com/"></a>
 <a href="mailto:gerald2399@comcast.net"><img alt="Email" src="https://img.shields.io/badge/Email-gerald2399@comcast.net-blue?style=flat-square&logo=gmail"></a>
 </p>
 
