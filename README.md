@@ -5,7 +5,7 @@
 - 🤔 &nbsp; I design and develop front end websites and I enjoy learning something new about web development from each project I work on. 
 - 🎓 &nbsp; I studied Information Technology at Southwest Community College and graduated with an AS degree in 2015.
 - 💼 &nbsp; I am looking to pursue a career in Web Development when the opportunity arises.
-- ✍️ &nbsp; I enjoy learning and creating my own Graphic Design and Web Development projects as a hobby.
+- ✍️ &nbsp; I enjoy learning and creating my own Graphic Design and Web Development projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
